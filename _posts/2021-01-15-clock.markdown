@@ -4,4 +4,5 @@ title:  SimpleClock
 date: 2021-01-14 00:00
 permalink: clock
 ---
-このアプリはSimple Clockです。
+# 時計表示のみのシンプルなアプリ。
+![Clock](/assets/clock.png)
