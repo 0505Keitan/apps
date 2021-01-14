@@ -29,7 +29,7 @@ github_username:  0505Keitan
 instagram_username: 0505.keitan
 
 # Build settings
-theme: minima
+theme: jekyll-theme-minimal
 plugins:
     - jekyll-feed
 
