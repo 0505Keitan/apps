@@ -19,21 +19,20 @@
 # in the templates via {{ site.myvariable }}.
 
 title: 0505Keitan's App
-email: contact@0505Keitan.com
+
 description: >- # this means to ignore newlines until "baseurl:"
-    0505Keitan's App
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://app.0505Keitan.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://app.0505Keitan.com/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 0505Keitan
 github_username:  0505Keitan
-instagram_username: 0505.keitan
 
 # Build settings
-theme: jekyll-theme-minimal
+theme: minima
 plugins:
-    - jekyll-feed
-
-lang: ja
+  - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -54,9 +53,3 @@ lang: ja
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-
-gems:
-    - jekyll-seo-tag
-
-GitHub_link: "https://github.com/0505Keitan/app"
-author: 0505Keitan
