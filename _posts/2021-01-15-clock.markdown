@@ -5,4 +5,7 @@ date: 2021-01-14 00:00
 permalink: clock
 ---
 # 時計表示のみのシンプルなアプリ。
+
+<a href="https://apps.apple.com/app/id1548930970" class="appstore">![Download on the App Store](/assets/Download_on_the_App_Store.svg)</a>
+
 ![Clock](/assets/clock.png)
